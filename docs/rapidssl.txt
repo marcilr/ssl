@@ -1,0 +1,31 @@
+rapidssl.txt
+Created Sat Jul 21 16:13:28 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+RapidSSL certificates
+
+
+A bit spendy so perhaps not .org, .net, .info, and .biz?
+
+RapidSSL certificate (Sep 1, 2010):
+
+Duration   Initial     Renew
+----------------------------
+1  year     $79.00    $55.00
+2  years   $138.00    $96.00
+3  years   $198.00   $138.00
+4  years   $257.00   $179.00
+5  years   $316.00   $220.00
+
+RapidSSL wildcard certificate (Sep 1, 2010):
+
+Duration   Initial     Renew
+----------------------------
+1  year    $199.00   $199.00
+2  years   $348.00   $348.00
+3  years   $498.00   $498.00
+4  years   $647.00   $647.00
+5  years   $796.00   $796.00
+
+domain/ssl.txt
