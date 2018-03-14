@@ -1,0 +1,16 @@
+links.txt
+Created Wed Mar 14 08:42:47 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+SSL related links
+
+
+Links
+=====
+RapidSSL
+http://www.rapidssl.com/index_ssl.htm
+
+RapidSSL Wildcard SSL Certificate
+http://www.rapidssl.com/ssl-certificate-products/rapidssl/usd/wildcard-ssl-certificate.htm
+
