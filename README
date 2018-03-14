@@ -8,6 +8,9 @@ Filelist
 docs/
   Documentation
 
+links.txt
+  SSL related links
+
 ssl.txt
   Secure Sockets Layer
 
