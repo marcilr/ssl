@@ -9,6 +9,7 @@ SSL related links
 Links
 =====
 Let's Encrypt
+Let’s Encrypt is a free, automated, and open Certificate Authority
 Certs mentioned by DNR's Aaron Woehler spring 2019
 https://letsencrypt.org/
 
