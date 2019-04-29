@@ -8,6 +8,12 @@ SSL related links
 
 Links
 =====
+Getting Started
+Has links to Certbot ACME client for automatic
+certificate issuance and installation with no
+downtime
+https://letsencrypt.org/getting-started/
+
 Let's Encrypt
 Let’s Encrypt is a free, automated, and open Certificate Authority
 Certs mentioned by DNR's Aaron Woehler spring 2019
