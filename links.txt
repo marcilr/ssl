@@ -8,6 +8,10 @@ SSL related links
 
 Links
 =====
+Let's Encrypt
+Certs mentioned by DNR's Aaron Woehler spring 2019
+https://letsencrypt.org/
+
 RapidSSL
 http://www.rapidssl.com/index_ssl.htm
 
