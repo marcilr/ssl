@@ -8,6 +8,10 @@ Filelist
 docs/
   Documentation
 
+lets-encrypt/
+  Let's Encrypt - Free SSL/TLS Certificates
+  https://letsencrypt.org/
+
 links.txt
   SSL related links
 
