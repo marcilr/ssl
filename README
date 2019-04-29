@@ -11,6 +11,9 @@ docs/
 links.txt
   SSL related links
 
+manifest
+  Manifest for resync application
+
 ssl.txt
   Secure Sockets Layer
 
