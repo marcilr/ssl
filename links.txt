@@ -16,8 +16,16 @@ https://letsencrypt.org/getting-started/
 
 Let's Encrypt
 Let’s Encrypt is a free, automated, and open Certificate Authority
+"You can get a free SSL certificate from Let’s Encrypt, a popular
+CA that provides certificates in the interest of creating a safer
+Internet"
+--Getting an SSL certificate from a Certificate Authority (CA)
+  Get an SSL certificate for your domain
+  https://support.google.com/domains/answer/7630973?hl=en
 Certs mentioned by DNR's Aaron Woehler spring 2019
 https://letsencrypt.org/
+
+
 
 RapidSSL
 http://www.rapidssl.com/index_ssl.htm
